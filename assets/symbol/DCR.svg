@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_7" data-name="Group 7" transform="translate(-159 -238)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="16" cy="16" r="16" transform="translate(159 238)" fill="#2ed6a1"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(0.817 0.406)">
+      <g id="Laag_3" transform="translate(165.044 246.486)">
+        <g id="Layer_1-2" transform="translate(0 0)">
+          <path id="_Pad_" d="M45.1,8.954h4.614a3.117,3.117,0,0,0,3.118-3.118,3.086,3.086,0,0,0-3.1-3.1H48.255L45.1,0h4.614A5.835,5.835,0,0,1,51.9,11.252l3.647,3.155H51.392Z" transform="translate(-36.875 0.001)" fill="#fff"/>
+          <path id="_Pad_2" d="M10.485,5.471H5.871a3.118,3.118,0,1,0,0,6.237H7.349l3.137,2.735H5.871A5.846,5.846,0,0,1,3.665,3.173L.017,0H4.194Z" transform="translate(0.001 0)" fill="#fff"/>
+          <path id="_Pad_3" d="M10.485,5.471H5.871a3.118,3.118,0,1,0,0,6.237H7.349l3.137,2.735H5.871A5.846,5.846,0,0,1,3.665,3.173L.017,0H4.194Z" transform="translate(0.001 0)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

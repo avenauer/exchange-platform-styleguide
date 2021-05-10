@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_1127" data-name="Group 1127" transform="translate(-1294 -6736)">
+    <path id="sliders-h" d="M31,54H10V53a1,1,0,0,0-1-1H7a1,1,0,0,0-1,1v1H1a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H6v1a1,1,0,0,0,1,1H9a1,1,0,0,0,1-1V58H31a1,1,0,0,0,1-1V55A1,1,0,0,0,31,54Zm0-10H26V43a1,1,0,0,0-1-1H23a1,1,0,0,0-1,1v1H1a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H22v1a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1V48h5a1,1,0,0,0,1-1V45A1,1,0,0,0,31,44Zm0-10H18V33a1,1,0,0,0-1-1H15a1,1,0,0,0-1,1v1H1a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H14v1a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1V38H31a1,1,0,0,0,1-1V35A1,1,0,0,0,31,34Z" transform="translate(1294 6706)" fill="#4052d6"/>
+    <rect id="Rectangle_1140" data-name="Rectangle 1140" width="32" height="32" transform="translate(1294 6736)" fill="none"/>
+  </g>
+</svg>

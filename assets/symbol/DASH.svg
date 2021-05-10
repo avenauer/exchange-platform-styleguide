@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_21" data-name="Group 21" transform="translate(0 -698)">
+    <g id="dash-dash-logo" transform="translate(0 698)">
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="16" cy="16" r="16" fill="#008ce7"/>
+      <g id="Group_17" data-name="Group 17">
+        <path id="Path_46" data-name="Path 46" d="M19.086,8H11.81l-.6,3.367,6.562.01c3.231,0,4.19,1.173,4.159,3.12a14.132,14.132,0,0,1-.633,3.23c-.5,1.46-1.521,3.122-5.359,3.117l-6.378,0-.6,3.371h7.257a10.106,10.106,0,0,0,4.8-.83c2.554-1.178,4.075-3.7,4.686-6.994C26.606,11.491,25.476,8,19.085,8Z" fill="#fff"/>
+        <path id="Path_47" data-name="Path 47" d="M15.807,15.8c.237-.985.312-1.38.312-1.38H8.673a2.144,2.144,0,0,0-2.357,1.99C6.079,17.389,6,17.789,6,17.789h7.447A2.144,2.144,0,0,0,15.807,15.8Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_4" data-name="Group 4" transform="translate(0 -35)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="16" r="16" transform="translate(0 35)" fill="#f3ba2f"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-17.76 -58.756)">
+      <g id="binance-logo" transform="translate(22.265 98.261)">
+        <path id="Path_4" data-name="Path 4" d="M27.028,9.694l4.481-4.479L35.991,9.7,38.6,7.09,31.509,0,24.42,7.089Z" transform="translate(-19.97)" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M0,51.608,2.606,49l2.608,2.608L2.606,54.214Z" transform="translate(0 -40.071)" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M27.028,73.4l4.481,4.481L35.991,73.4,38.6,76l-7.089,7.09-7.09-7.085Z" transform="translate(-19.97 -60.025)" fill="#fff"/>
+        <path id="Path_7" data-name="Path 7" d="M98,51.608,100.606,49l2.608,2.606-2.608,2.609Z" transform="translate(-80.142 -40.071)" fill="#fff"/>
+        <path id="Path_8" data-name="Path 8" d="M54.1,51.426,51.454,48.78,49.5,50.735l-.226.224-.463.463,2.644,2.642L54.1,51.428Z" transform="translate(-39.915 -39.891)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

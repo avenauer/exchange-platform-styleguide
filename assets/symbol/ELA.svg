@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_9" data-name="Group 9" transform="translate(156 -208)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="16" cy="16" r="16" transform="translate(-156 208)" fill="#fff"/>
+    <g id="elastos-ela-logo" transform="translate(-149.494 216.085)">
+      <path id="Path_10" data-name="Path 10" d="M47.015,19.161l4.826-2.786-4.826-2.8Z" transform="translate(-37.363 -10.786)" fill="#2a3d58"/>
+      <path id="Path_11" data-name="Path 11" d="M28.333,19.161l-4.826-2.786,4.826-2.8Z" transform="translate(-18.681 -10.786)" fill="#0f2631"/>
+      <path id="Path_12" data-name="Path 12" d="M51.841,0,47.015,2.786l4.826,2.8Z" transform="translate(-37.363)" fill="#0f2631"/>
+      <path id="Path_13" data-name="Path 13" d="M70.522,0l4.826,2.786-4.826,2.8Z" transform="translate(-56.044)" fill="#2a3d58"/>
+      <path id="Path_14" data-name="Path 14" d="M4.826,0,0,2.786l4.826,2.8Z" fill="#0f2631"/>
+      <path id="Path_15" data-name="Path 15" d="M23.507,0l4.826,2.786-4.826,2.8Z" transform="translate(-18.681)" fill="#2a3d58"/>
+      <path id="Path_16" data-name="Path 16" d="M47.015,56.6l4.826-2.786-4.826-2.8Z" transform="translate(-37.363 -40.535)" fill="#2a3d58"/>
+      <path id="Path_17" data-name="Path 17" d="M28.333,56.6,23.507,53.81l4.826-2.8Z" transform="translate(-18.681 -40.535)" fill="#0f2631"/>
+      <path id="Path_18" data-name="Path 18" d="M51.841,37.435l-4.826,2.786,4.826,2.8Z" transform="translate(-37.363 -29.75)" fill="#0f2631"/>
+      <path id="Path_19" data-name="Path 19" d="M70.522,37.435l4.826,2.786-4.826,2.8Z" transform="translate(-56.044 -29.75)" fill="#2a3d58"/>
+      <path id="Path_20" data-name="Path 20" d="M4.826,37.435,0,40.221l4.826,2.8Z" transform="translate(0 -29.75)" fill="#0f2631"/>
+      <path id="Path_21" data-name="Path 21" d="M23.507,37.435l4.826,2.786-4.826,2.8Z" transform="translate(-18.681 -29.75)" fill="#2a3d58"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+Todo list:
+
+- responsivity tests to all components on functional grids,
+- margin, padding to recent trades,
+- tests to bottom info on market watch,
+- login, register fixes,
+- order execution buttons double border fix,
+- buy / sell on order exec. fix issue,
+- transition from ease-out to cubic bezier ! ,
+- remove unused styles /comments,
+- Ober said titles on tradingInfo (symbol, quantity, value etc.) might be a bit lighter,
+- user-select: none; on titles / components,
+- fix shadow on dropdown,
+- mark price > current prize,
+- header dropdown shadow fix ( make it as one component with dropdown icon ),
+- *** simple / advanced positions,
+- *** buttons under quantity in orderbook under total,
+- dropdown fix (looks like visibility is still active),
+- account on left side
+
