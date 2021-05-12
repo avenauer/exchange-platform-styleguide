@@ -30,7 +30,7 @@ class RegisterPage extends Component {
           </h2>
           <Input message="" title="Username" />
           <Input
-            message="Mateusz wajche przełóż Mateusz wajche przełóżz"
+            message="Warning message"
             title="Email Address"
           />
           <Input message="" title="Password" />

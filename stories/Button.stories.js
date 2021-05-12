@@ -1,6 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 import Button from "../components/Buttons/Button";
+import '../normalize.css';
 
 storiesOf("Buttons", module)
   .add("Primary button", () => {

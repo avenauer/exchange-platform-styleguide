@@ -37,7 +37,7 @@ class Header extends Component {
         </HeaderWrapperStyled>
         <HeaderWrapperStyled>
           <div>
-            <button onClick={this.notify}>Toasts tests</button>
+            {/*<button onClick={this.notify}>Toasts tests</button>*/}
             <ToastContainer />
           </div>
           <CustomizeLayoutDropdown />
